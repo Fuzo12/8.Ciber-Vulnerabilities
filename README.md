@@ -1,2 +1,2 @@
-# 8.-Ciber-Vulnerabilities
+# 8.Ciber-Vulnerabilities
 Cibersecurity Vulnerabilities
